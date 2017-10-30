@@ -1,0 +1,58 @@
+table td {
+    vertical-align: middle !important;
+}
+
+.create-seo-box label {
+    margin-top: 6px !important;
+    margin-bottom: 6px !important;
+}
+
+.icheckbox_flat-green {
+    top: -1px;
+}
+
+.social-signal-select,
+.social-signal-repeat-size,
+.pbns-size-select {
+    width: 80px;
+    float: left;
+}
+
+.content-categories {
+    width: 200px !important;
+}
+
+.pbns-type-select {
+    width: 100px;
+    float: left;
+}
+
+.social-signal-repeat-type {
+    width: 100%;
+}
+
+.create-seo-box select {
+    margin-bottom: 10px !important;
+}
+
+.add-campaign-btn {
+    width: 100%;
+}
+
+.add-pbns-btn,
+.del-pbns-btn {
+    width: 100%;
+}
+
+.del-pbns-btn {
+    display: none;
+}
+
+.plan-credits {
+    font-size: 90%;
+}
+
+.buy-btn,
+.subscribe-btn {
+    width: 30%;
+}
